@@ -1,0 +1,98 @@
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\bin\Debug\Bluesound.exe.config
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\bin\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\bin\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.Form1.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.Properties.Resources.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.GenerateResource.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.CoreCompileInputs.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\bin\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\c# projelerim\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\bin\Debug\Bluesound.exe.config
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\bin\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\bin\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\bin\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.Form1.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.Properties.Resources.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.GenerateResource.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.CoreCompileInputs.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound2\Bluesound\Bluesound\obj\Debug\Bluesound.Form2.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.exe.config
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\bin\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Form1.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Form2.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Properties.Resources.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.GenerateResource.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.CoreCompileInputs.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\Bluesound3\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\sound\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.exe.config
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.exe
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Bluesound.pdb
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Interop.WMPLib.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\AxInterop.WMPLib.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Form1.resources
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Form2.resources
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.Properties.Resources.resources
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.GenerateResource.cache
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.CoreCompileInputs.cache
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\MetroFramework.Design.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\MetroFramework.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\MetroFramework.Fonts.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.music.resources
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\libvideo.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\MediaToolkit.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Newtonsoft.Json.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Newtonsoft.Json.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.Base.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebBrowser.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebBrowser.WinForm.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebEngine.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.Base.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebBrowser.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebBrowser.WinForm.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\EO.WebEngine.xml
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Videolizer.Core.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\bin\Debug\Videolizer.dll
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.isteklistesi.resources
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.youtube.resources
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.AssemblyReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Interop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.csproj.ResolveComReference.cache
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.exe
+C:\Users\YASİN CAN\OneDrive\Masaüstü\Tüm Projeler\sound\soundtiger_all_versions\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.pdb
+C:\soundtiger_v1.8\Bluesound3\Bluesound\Bluesound\obj\Debug\Bluesound.welcome.resources

@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluesound", "Bluesound\Bluesound.csproj", "{0074236F-B818-4595-B383-753D32C1BB50}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SoundTiger", "SoundTiger\SoundTiger.vdproj", "{DD7CB18C-EC45-487F-B9ED-C773531D7FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0074236F-B818-4595-B383-753D32C1BB50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0074236F-B818-4595-B383-753D32C1BB50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0074236F-B818-4595-B383-753D32C1BB50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0074236F-B818-4595-B383-753D32C1BB50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD7CB18C-EC45-487F-B9ED-C773531D7FDA}.Debug|Any CPU.ActiveCfg = Debug
+		{DD7CB18C-EC45-487F-B9ED-C773531D7FDA}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA67DC97-EC94-4ED7-A978-370EC804C87F}
+	EndGlobalSection
+EndGlobal
